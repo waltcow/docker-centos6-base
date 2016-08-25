@@ -1,11 +1,7 @@
-## customize Centos6 base image 
+## Customize Centos6 base image 
 
-This image is built from the official centos6 image with chinese localization.
+ This image is built from the official centos6 image with aliyun mirror 
 
 * SSH support
-* Chinese locale and timezone modify
-
-
-
-
-
+* Add Chinese chartset support
+* Set default timezone to "Asia/Shanghai"
